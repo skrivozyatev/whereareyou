@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WhereAreYou</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sign_in">Sign In</string>
+    <string name="logoff">Logoff</string>
+    <string name="request">Request</string>
+    <string name="requests">Requests</string>
+    <string name="logged_off">Logged off</string>
+    <string name="no_location_permissions_were_granted">No location permissions were granted</string>
+    <string name="location">Location</string>
+    <string name="google_play_services_error">Google play services error</string>
+    <string name="location_permissions_dialog_header">Grant location permissions. Select location type you would grant.</string>
+    <string name="grant">Grant</string>
+    <string name="deny">Deny</string>
+    <string name="fine_location">Fine</string>
+    <string name="coarse_location">Coarse</string>
+    <string name="phone_number_request">Please enter your phone number</string>
+    <string name="confirm">Confirm</string>
+    <string name="sms_confirm_code_header">Please enter the code from SMS</string>
+</resources>
