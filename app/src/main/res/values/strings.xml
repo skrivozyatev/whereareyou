@@ -4,7 +4,7 @@
     <string name="sign_in">Sign In</string>
     <string name="logoff">Logoff</string>
     <string name="request">Request</string>
-    <string name="requests">Requests</string>
+    <string name="pending_requests">Pending Requests</string>
     <string name="logged_off">Logged off</string>
     <string name="no_location_permissions_were_granted">No location permissions were granted</string>
     <string name="location">Location</string>

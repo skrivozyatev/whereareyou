@@ -9,6 +9,6 @@
     <item android:title="@string/request"
           android:id="@+id/request"/>
 
-    <item android:title="@string/requests"
+    <item android:title="@string/pending_requests"
           android:id="@+id/requests"/>
 </menu>
