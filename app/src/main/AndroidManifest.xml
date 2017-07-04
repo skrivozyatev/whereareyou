@@ -46,6 +46,8 @@
         </activity>
         <activity android:name=".ConfirmPhoneActivity">
         </activity>
+        <activity android:name=".ContactsRequestActivity">
+        </activity>
     </application>
 
 </manifest>
